@@ -1,0 +1,8 @@
+Cannot load StringPrep-0.1.0 bindings. You may need to `npm install node-stringprep'
+Error: You need to set HUBOT_GTALK_USERNAME and HUBOT_GTALK_PASSWORD anv vars for gtalk to work
+  at Gtalkbot.run (/Users/Yael_Zaritsky/projects/chat-hubot-generator/myhubot/node_modules/hubot-gtalk/src/gtalk.coffee:23:17, <js>:60:15)
+  at Robot.run (/Users/Yael_Zaritsky/projects/chat-hubot-generator/myhubot/node_modules/hubot/src/robot.coffee:476:5, <js>:411:27)
+  at Object.<anonymous> (/Users/Yael_Zaritsky/projects/chat-hubot-generator/myhubot/node_modules/hubot/bin/hubot:139:8, <js>:151:11)
+  at Object.<anonymous> (/Users/Yael_Zaritsky/projects/chat-hubot-generator/myhubot/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:456:26)
+

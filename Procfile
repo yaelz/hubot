@@ -1,1 +1,1 @@
-web: bin/hubot -a gtalk
+web: bin/hubot -a gtalk -n myhubot

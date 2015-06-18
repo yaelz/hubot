@@ -1,0 +1,6 @@
+export HUBOT_ADAPTER_NAME="gtalk"
+export HUBOT_ADAPTER_USER="myhubot"
+export HUBOT_GTALK_USERNAME=“yaelzaritsky@gmail.com"
+export HUBOT_GTALK_PASSWORD=“yaelZ2826”
+export HUBOT_GTALK_WHITELIST_DOMAINS=“wix.com"
+export HUBOT_LOG_LEVEL="debug"
